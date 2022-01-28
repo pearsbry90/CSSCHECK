@@ -1,0 +1,23 @@
+body {
+    background-color: tan;
+}
+
+.title {
+    text-align: center;
+    color: brown;
+}
+
+.wrapper {
+    margin: 10px solid white
+}
+
+.example-one {
+    margin-top: 5px;
+    border: 2px solid black;
+}
+#number-one {
+    font-style: italic;
+    color: grey
+}
+
+
